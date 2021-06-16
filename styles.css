@@ -1,0 +1,184 @@
+.navbar-nav {
+  margin-left: auto;
+}
+
+.navbar-brand {
+  font-family: 'Righteous', cursive;
+}
+
+#title {
+  background-color: #ff4c68;
+
+  padding: 1% 15%;
+  padding-bottom:.100px;
+  height:630px;
+
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+}
+
+.container-fluid {
+  padding-right: 50px;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.rows-class {
+  padding-top: 5rem;
+}
+
+.h3header {
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.container {
+  padding-top: 100px
+}
+
+.h3div {
+  text-align: center;
+}
+
+.h3div-p {
+  width: 60%;
+  margin: 0 auto;
+  color: #8f8f8f;
+}
+
+.work-icon {
+  color: #ef8172;
+}
+
+.work-icon:hover {
+  color: #ff4c68;
+}
+
+#features {
+    padding: 7% 15%;
+  backgorund-color:#fff;
+
+
+  z-index: 1;
+
+}
+.iphone-img {
+  width: 250px;
+  transform: rotate(30deg);
+  position: absolute;
+right:20%;
+
+}
+
+
+
+
+.mainheading {
+  color: white;
+  font-size: 2.8rem;
+}
+
+#testimonials {
+
+  text-align: center;
+  color: white;
+  background-color: #ef8172;
+}
+
+.dog-img {
+  border-radius: 100%;
+  width: 200px ;
+  margin: 20px;
+}
+
+.h2-dog {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+#press {
+  /* padding:0 15%; */
+  text-align: center;
+  color: white;
+  background-color: #ef8172;
+  padding-bottom: 35px;
+  padding-top: 80px;
+}
+.press-logo{
+  width:200px;
+  padding-right: 30px;
+
+}
+
+
+
+#testimnials{
+background-color: #ef8172;
+  text-align: center;
+}
+.testimnial-image{
+  border-radius:100%;
+  width: 200px;
+  padding:25px
+}
+.testimnial-text{
+  width:600px;
+  margin:0 auto;
+}
+
+.card{
+text-align: center;
+
+  height:100%
+
+}
+.colom{
+
+    margin:0 auto;
+}
+.row{
+
+  padding-top:70px;
+}
+#pricing
+{
+  padding:7% 15%;
+}
+@media (max-width:1028px){
+  .mainheading{
+    font-size: 2rem;
+  }
+  #title{
+    text-align: center;
+  }
+  .iphone-img{
+    transform: rotate(0);
+    position:static;
+  }
+}
+.cta-cla{
+  background-color:#ff4c68;
+    text-align:center;
+}
+.cta-header{
+  padding:5% 15%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:bold;
+  font-size:3rem;
+  color:white;
+}
+.down-button
+{
+  margin:10px 20px 80px auto;
+}
+#footer{
+  padding:7% 15%;
+  text-align:center;
+
+}
